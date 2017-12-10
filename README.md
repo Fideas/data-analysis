@@ -6,3 +6,4 @@ A collection of notebooks containing data analysis projects and exercises taken 
 * [Analyzing moview reviews](https://github.com/Fideas/data-analysis/blob/master/movies.ipynb) - An introduction to statistical analysis using descriptive statistics
 * [Winning Jeopardy](https://github.com/Fideas/data-analysis/blob/master/jeopardy.ipynb) - An introduction to probability and Chi-squared tests using Python
 * [Predicting Car Prices](https://github.com/Fideas/data-analysis/blob/master/cars.ipynb) - Use the K-Nearest Neighbors algorithm to train a machine learning model
+* [Predicting Bike Rentals](https://github.com/Fideas/data-analysis/blob/master/bikes.ipynb) - Apply decision trees and random forests to predict the number of bike rentals
